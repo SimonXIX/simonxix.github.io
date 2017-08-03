@@ -506,3 +506,6 @@ fieldset[disabled] .btn-success:hover {
 div#maincontent {
     outline: 0
 }
+.profile{
+	border-radius: 50%;
+}
